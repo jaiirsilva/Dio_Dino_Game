@@ -18,7 +18,7 @@ Desafio proposto pelo bootcamp da empresa GFT e DIO.
 
 
 
-<h2>Material de Apoio:
+<h2>Material de Apoio:</h2>
   
   [Documentações e Guias](https://developer.mozilla.org/pt-BR/)
   
